@@ -1,6 +1,8 @@
 # check_ips
 Python script that gets a CSV file with list of ip addresses and checks if its legit or malicious
 
+![image](https://github.com/hoodini/check_ips/assets/48050809/aea9899a-1f1d-4196-88e3-aa9d2099d712)
+
 # How is it used?
 python <script> <path_to_csv_file>
 
